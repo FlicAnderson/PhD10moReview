@@ -68,29 +68,28 @@ Source: [tl;drLegal](https://tldrlegal.com/license/mit-license)
 
 ## Outline 
 
-* Abstract 
-* Motivation / Background
-* Main RQs 
-* Aims 
-* Objectives 
-* Key areas of work
-* "Next 6 months" plan
+* Main RQs & project goals 
+* What I've achieved so far 
+* What I've still to do 
+* Challenges for me & the project 
+* My Qs. 
 
 
-## Abstract 
+## Project Aims
 
-## Motivation / Background 
+Aims: 
+* To develop research software (RS) assessment metrics. 
+* To use these in small-scale RS projects to empirically test whether specific software engineering (SE) recommendations improve research software development. 
+
+Goals: develop evidence-basis to guide future researcher-developers in using effective SE approaches in their RS projects.
 
 ## Main RQs 
 
-## Aims 
+*"Which effective SE approaches\* prevalent in traditional SE can be recommended to small research software projects to improve their software quality and development efficiency?"*
 
-## Objectives 
+- "How can effectiveness and appropriateness of software engineering techniques and development practices in research software projects be measured? [RSM0]" 
+- "Do the identified recommended software engineering techniques or development practices improve the quality of research software and/or development efficiency if deployed within small research software projects? [SEA0]"
+- "Which factors influence the adoption and effective use of these recommended software engineering techniques in research software projects? [RSP0]"
 
-## Key Areas of Work 
-
-## Next 6 Months Plan
-
-
-
+\* SE techniques and development practices
 
