@@ -1,7 +1,7 @@
 ---
-title: "Coding Smart in Academia: Evidence-Based Software Engineering Approaches for High-Quality Research Software Projects"
+title: "*Coding Smart in Academia* PhD Project"
 author: "Flic Anderson"
-date: "24/10/2022"
+date: "31/10/2022"
 output: 
   ioslides_presentation
 ---
@@ -64,7 +64,10 @@ You can check out the code used to make these slides at the [Talk repo](https://
 Source: [tl;drLegal](https://tldrlegal.com/license/mit-license)
 
 
+
 # Coding Smart in Academia: *Evidence-Based Software Engineering Approaches for High-Quality Research Software Projects*  
+
+
 
 ## Outline 
 
@@ -72,24 +75,89 @@ Source: [tl;drLegal](https://tldrlegal.com/license/mit-license)
 * What I've achieved so far 
 * What I've still to do 
 * Challenges for me & the project 
-* My Qs. 
+* My Questions 
+
+RS: Research software  
+SE: Software engineering 
+
+
+
+## Project Question
+
+<font size=6>*"Which __effective SE approaches__\* prevalent in traditional SE can be recommended to __small research software projects__ to improve their __software quality__ and __development efficiency__?"* </font>
+
+
+*Areas of focus:* 
+
+* Software Engineering Approaches in Research Software [SEA]    
+* Measuring Research Software [RSM]   
+* Research Software Projects [RSP]   
+
+<font size=4>\* Specific __SE techniques__ and more general __SE development practices__. </font>  
+
 
 
 ## Project Aims
 
-Aims: 
-* To develop research software (RS) assessment metrics. 
-* To use these in small-scale RS projects to empirically test whether specific software engineering (SE) recommendations improve research software development. 
+__Aims:__  
 
-Goals: develop evidence-basis to guide future researcher-developers in using effective SE approaches in their RS projects.
+* To develop RS __assessment metrics__.  
+* To use these in small-scale RS projects to __empirically test__ whether specific SE recommendations are effective and improve RS development. 
 
-## Main RQs 
+__Goals:__   
 
-*"Which effective SE approaches\* prevalent in traditional SE can be recommended to small research software projects to improve their software quality and development efficiency?"*
+* Develop __evidence-basis__ to guide future researcher-developers in using effective SE approaches in their RS projects. 
+* Feed __SE recommendations back to RS community__ through publications and presentations.
 
-- "How can effectiveness and appropriateness of software engineering techniques and development practices in research software projects be measured? [RSM0]" 
-- "Do the identified recommended software engineering techniques or development practices improve the quality of research software and/or development efficiency if deployed within small research software projects? [SEA0]"
-- "Which factors influence the adoption and effective use of these recommended software engineering techniques in research software projects? [RSP0]"
 
-\* SE techniques and development practices
+
+## Main RQs
+
+- "How can effectiveness and appropriateness of SE techniques and development practices in RS projects be measured? [RSM0]" 
+
+- "Do the identified recommended SE techniques or development practices improve the quality of RS and/or development efficiency if deployed within small RS projects? [SEA0]"
+
+- "Which factors influence the adoption and effective use of these recommended SE approaches in RS projects? [RSP0]"
+
+
+## What I've Achieved so Far  
+
+
+
+
+## Project Plan 
+
+
+
+## Next 6 Months Priorities: 
+
+
+
+## Challenges for Me \& The Project
+
+__Collating a list of specific promising SE approaches to recommend in the Interventions study.__   
+
+They need to:     
+ - be quickly/easily learned with skill-up materials available    
+ - have claims supporting effectiveness in SE  
+ - be likely to transfer to RS projects well  
+ - address software quality or development efficiency  
+ - have differing actions/methods of improvement  
+ - result in measurable improvement in (6-9mo) intervention period    
+
+
+Mitigations: 
+Collate potential recommendations from lit reviews, survey study feedback, external datasets;  
+Gather feedback on RS expectations/experiences of these recommendations re: likely effectiveness. 
+
+
+## Challenges for Me \& The Project  
+
+__Project timescales are short for measuring changes to codebase and development__ 
+
+Risk of not beginning long forward study Interventions experiment soon enough, delays to data collection, difficulty in arranging interviews/meetings with key developers. 
+
+Mitigations: 
+Collate list of potential projects which may be likely to meet participation criteria, adding to or subtracting from this as I refine the criteria and verify availability or interest.  
+Focus on metrics which are likely to    vbt
 
