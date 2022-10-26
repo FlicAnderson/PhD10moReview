@@ -71,11 +71,14 @@ Source: [tl;drLegal](https://tldrlegal.com/license/mit-license)
 
 ## Outline 
 
-* Main RQs & project goals 
-* What I've achieved so far 
-* What I've still to do 
-* Challenges for me & the project 
-* My Questions 
+- project question and areas of focus
+- project aims & goals 
+- main RQs 
+- what I've achieved so far 
+- project plan / milestones 
+- key experiments/studies
+- next 6 months priorities 
+- challenges for me and the project 
 
 RS: Research software  
 SE: Software engineering 
