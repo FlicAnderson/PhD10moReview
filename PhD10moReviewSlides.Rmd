@@ -116,23 +116,56 @@ __Goals:__
 
 ## Main RQs
 
-- "How can effectiveness and appropriateness of SE techniques and development practices in RS projects be measured? [RSM0]" 
+- "How can effectiveness and appropriateness of SE techniques and development practices in small UK-based RS projects be measured? *[RSM0]*" 
 
-- "Do the identified recommended SE techniques or development practices improve the quality of RS and/or development efficiency if deployed within small RS projects? [SEA0]"
+- "Do the identified recommended SE techniques or development practices improve the quality of RS and/or development efficiency if deployed within small RS projects? *[SEA0]*"
 
-- "Which factors influence the adoption and effective use of these recommended SE approaches in RS projects? [RSP0]"
-
-
-## What I've Achieved so Far  
+- "Which factors influence the adoption and effective use of these recommended SE approaches in small RS projects? *[RSP0]*"
 
 
 
+## What I've Achieved so Far   
 
-## Project Plan 
+* __Literature Review__ - broad background reading on research software research, comparisons to software engineering research, some methods studies, and initially focusing on measuring software quality aims   
+* Planning and designing *Research Software Testing Experiences Survey*    
+* Made start on __ethics process__ for survey experiment and thinking about data management  
+* __Networking!__ Researchers, Research Software Community members and software developers / technical leads from industry...     
+
+
+
+## What I've Achieved so Far   
+
+* Volunteered at [Sixth Annual Conference for Research Software Engineering](https://rsecon2022.society-rse.org/) (RSECon22)   
+* Attended [SSI Collaborations Workshop 2022](https://www.software.ac.uk/cw22) (CW22)  
+* Presented at [Edinburgh Open Research Conference 2022](https://edopenresearch.com/edinburghopenresearchconference/)   
+* Volunteered at tech industry/ startups conference [Turing Fest 2022](https://www.turingfest.com/conference)    
+* Lead-authored /  SSI blog post\* resulting from speed-blog session at CW22  
+
+<font size=4>\* = [Aim for understandability if you want to write good research software](https://www.software.ac.uk/blog/2022-07-04-aim-understandability-if-you-want-write-good-research-software). </font>
+
+
+
+## What I've Achieved so Far (Indirect / External)  
+
+* Presented at [Edinburgh Open Research Conference 2022](https://edopenresearch.com/edinburghopenresearchconference/)   
+* Demonstrating on *Programming Skills* & *Fundamentals of Data Management* EPCC masters courses   
+* Helper \& Demonstrator on [Ed-DaSH](https://edcarp.github.io/Ed-DaSH/) project workshops (Carpentries-style workshops: Data Science for Health and Biosciences)  
+* Part of winning team at SSI CollabW22 hack-day   
+
+
+
+## Project Plan / Milestones 
+
+
+
+
+## Key Experiments / Studies  
+
 
 
 
 ## Next 6 Months Priorities: 
+
 
 
 
