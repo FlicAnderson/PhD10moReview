@@ -149,8 +149,9 @@ __Goals:__
 
 * Presented at [Edinburgh Open Research Conference 2022](https://edopenresearch.com/edinburghopenresearchconference/)   
 * Demonstrating on *Programming Skills* & *Fundamentals of Data Management* EPCC masters courses   
-* Helper \& Demonstrator on [Ed-DaSH](https://edcarp.github.io/Ed-DaSH/) project workshops (Carpentries-style workshops: Data Science for Health and Biosciences)  
-* Part of winning team at SSI CollabW22 hack-day   
+* Helper \& Demonstrator on [Ed-DaSH](https://edcarp.github.io/Ed-DaSH/) project workshops (Carpentries-style workshops: Data Science for Health and Biosciences)   
+* Applied for [SSI Fellowship Programme 2023](https://www.software.ac.uk/programmes-and-events/fellowship-programme) to plan / organise activities relating to improving research software (shortlist confirmed ~Tuesday!)    
+* Part of winning team at SSI CollabW22 hack-day :)   
 
 
 
@@ -161,10 +162,35 @@ __Goals:__
 
 ## Key Experiments / Studies  
 
+__Literature Reviews:__    
+
+ - SE techniques in RS  [SEA0] 
+ - RS development practices [SEA0]  
+ - RS measurement [RSM0] 
+ - RS project factors [RSP0]  
+
+
+__Studies / Experiments:__   
+
+ - *RS Testing Experiences* survey  [SEA0, RSP0]   
+ - *Measuring RS Projects* - develop metrics/framework, then evaluate and refine  [RSM0] 
+ - *Evidence-Based RS Interventions* - main experiment, mixed methods [SEA0, RSP0, RSM0]      
+ 
 
 
 
 ## Next 6 Months Priorities: 
+
+* Complete ethics procedures, create Data Management Plan  
+* Lit Review: SE Approaches (techniques/development practices) [SEA0]   
+* Run, analyse and write up RS Testing Experiences Survey [SEA0 / RSP0]   
+* Lit Review: RS Measurement [RSM0]  
+* Develop (+ test and refine) RS assessment metrics and methods [RSM0]   
+* Develop and refine 'recommendation' SE approaches [SEA0]  
+* Recruiting RS projects for Interventions study [SEA0 / RSP0]   
+* Begin Evidence-Based RS Interventions study [SEA0 / RSP0 / RSM0]   
+
+
 
 
 
@@ -182,9 +208,10 @@ They need to:
  - result in measurable improvement in (6-9mo) intervention period    
 
 
-Mitigations: 
+*Mitigations:* 
 Collate potential recommendations from lit reviews, survey study feedback, external datasets;  
 Gather feedback on RS expectations/experiences of these recommendations re: likely effectiveness. 
+
 
 
 ## Challenges for Me \& The Project  
@@ -193,7 +220,7 @@ __Project timescales are short for measuring changes to codebase and development
 
 Risk of not beginning long forward study Interventions experiment soon enough, delays to data collection, difficulty in arranging interviews/meetings with key developers. 
 
-Mitigations: 
+*Mitigations:* 
 Collate list of potential projects which may be likely to meet participation criteria, adding to or subtracting from this as I refine the criteria and verify availability or interest.  
-Focus on metrics which are likely to    vbt
+Focus on metrics which are likely to result in measurable changes relatively quickly.  
 
