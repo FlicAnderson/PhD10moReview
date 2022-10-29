@@ -99,6 +99,8 @@ SE: Software engineering
 <font size=4>\* Specific __SE techniques__ and more general __SE development practices__. </font>  
 
 
+<!-- TODO: describe project background!  -->
+
 
 ## Project Aims
 
@@ -113,6 +115,8 @@ __Goals:__
 * Feed __SE recommendations back to RS community__ through publications and presentations.
 
 
+<!-- TODO: describe how aims have become clearer over first 10 months  -->
+
 
 ## Main RQs
 
@@ -124,12 +128,20 @@ __Goals:__
 
 
 
+<!-- TODO: shift RQs down after achievements?  -->
+
+
+
 ## What I've Achieved so Far   
 
 * __Literature Review__ - broad background reading on research software research, comparisons to software engineering research, some methods studies, and initially focusing on measuring software quality aims   
 * Planning and designing *Research Software Testing Experiences Survey*    
 * Made start on __ethics process__ for survey experiment and thinking about data management  
 * __Networking!__ Researchers, Research Software Community members and software developers / technical leads from industry...     
+
+
+
+<!-- TODO: include key learnings from my lit review  -->
 
 
 
