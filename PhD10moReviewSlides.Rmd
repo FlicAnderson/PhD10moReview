@@ -71,23 +71,30 @@ Source: [tl;drLegal](https://tldrlegal.com/license/mit-license)
 
 ## Outline 
 
-- project question and areas of focus
-- project aims & goals 
-- main RQs 
-- what I've achieved so far 
-- project plan / milestones 
-- key experiments/studies
-- next 6 months priorities 
-- challenges for me and the project 
+__Project Background:__  
+- main question, areas of focus   
+- motivation   
+- aims & goals    
+- project development   
+- main research questions   
+ 
+__Progress:__   
+- what I've achieved so far   
+- project plan; key experiments/studies  
+- next 6 months priorities   
+- challenges for me and the project   
 
-RS: Research software  
-SE: Software engineering 
+__RS: Research software__    
+__SE: Software engineering__ 
 
+
+
+# Project Background 
 
 
 ## Project Question
 
-<font size=6>*"Which __effective SE approaches__\* prevalent in traditional SE can be recommended to __small research software projects__ to improve their __software quality__ and __development efficiency__?"* </font>
+<font size=6>*"Which __effective SE approaches__\* prevalent in traditional SE can be recommended to __small research software projects within the UK__ to improve their __software quality__ and __development efficiency__?"* </font>
 
 
 *Areas of focus:* 
@@ -99,7 +106,17 @@ SE: Software engineering
 <font size=4>\* Specific __SE techniques__ and more general __SE development practices__. </font>  
 
 
-<!-- TODO: describe project background!  -->
+
+## Project Motivation   
+
+__Research Software: *"any code written or software used in the process of generating results for a publication"*__  
+
+* Software underpins (~) all modern research!   
+* Inaccuracies or inefficiencies in RS can have __negative research impacts__ (calibration blind-spot)  
+* __RS often created by developers un-trained in SE__: majority informally- or self-taught; existing training is sporadic, not evidence-based  
+* Due to __diversity of RS projects__, identifying effective, appropriate SE approaches can be challenging    
+* __*RS research lacks empirical evidence base identifying and supporting proven best practices*__
+
 
 
 ## Project Aims
@@ -107,7 +124,7 @@ SE: Software engineering
 __Aims:__  
 
 * To develop RS __assessment metrics__.  
-* To use these in small-scale RS projects to __empirically test__ whether specific SE recommendations are effective and improve RS development. 
+* To use these in *small-scale UK-based RS projects* to __empirically test__ whether specific SE recommendations are effective and improve RS development. 
 
 __Goals:__   
 
@@ -115,55 +132,85 @@ __Goals:__
 * Feed __SE recommendations back to RS community__ through publications and presentations.
 
 
-<!-- TODO: describe how aims have become clearer over first 10 months  -->
 
 
-## Main RQs
+## Project Development So Far  
 
-- "How can effectiveness and appropriateness of SE techniques and development practices in small UK-based RS projects be measured? *[RSM0]*" 
+Original Research Proposal:  
 
-- "Do the identified recommended SE techniques or development practices improve the quality of RS and/or development efficiency if deployed within small RS projects? *[SEA0]*"
-
-- "Which factors influence the adoption and effective use of these recommended SE approaches in small RS projects? *[RSP0]*"
-
-
-
-<!-- TODO: shift RQs down after achievements?  -->
-
-
-
-## What I've Achieved so Far   
-
-* __Literature Review__ - broad background reading on research software research, comparisons to software engineering research, some methods studies, and initially focusing on measuring software quality aims   
-* Planning and designing *Research Software Testing Experiences Survey*    
-* Made start on __ethics process__ for survey experiment and thinking about data management  
-* __Networking!__ Researchers, Research Software Community members and software developers / technical leads from industry...     
+* Focused on __SE in industry__ (later considered use of SE approaches in start-ups).      
+* Would __use interview/surveys__ of RS projects to investigate SE approaches being used in RS.  
+* __Less clarity__ on definition of 'effectiveness' of SE techniques.  
+* Planned to include research on whether __methods for knowledge transfer__ affected uptake of or effectiveness of specific SE techniques in RS projects.    
+* Emphasised using __taxonomy to compare RS projects__.    
+* Aimed to generate __comprehensive catalogue of programming techniques__ used in RS projects.    
 
 
 
-<!-- TODO: include key learnings from my lit review  -->
+# Progress  
+
+
+## What I've Achieved so Far (Project)   
+
+* __Refining research area__  and extending research proposal    
+* __Skills development__ (IAD courses)  
+* __Project planning__ and __identifying key experiments__    
+* __Planning and designing experiment:__  *Research Software Testing Experiences Survey*    
+* Made a start on __ethics process__ for survey experiment and thinking about data management   
+* __Networking__: Meeting researchers, RS community members and software developers / technical leads from industry...    
+* __Literature Review__ - broad background reading on RS research, comparisons to SE research, some methods studies, initial focus on measuring software quality     
 
 
 
-## What I've Achieved so Far   
+## What I've Achieved so Far: Lit Review   
 
-* Volunteered at [Sixth Annual Conference for Research Software Engineering](https://rsecon2022.society-rse.org/) (RSECon22)   
-* Attended [SSI Collaborations Workshop 2022](https://www.software.ac.uk/cw22) (CW22)  
-* Presented at [Edinburgh Open Research Conference 2022](https://edopenresearch.com/edinburghopenresearchconference/)   
-* Volunteered at tech industry/ startups conference [Turing Fest 2022](https://www.turingfest.com/conference)    
-* Lead-authored /  SSI blog post\* resulting from speed-blog session at CW22  
+__Research Software Research...__ 
+
+ * ... is a __young field__ - there is much more SE research than RS research.  
+ * ... is __still exploratory__: establishing "what are RS practices?" and "who develops RS?", rather than "how can we improve RS?".   
+ * ... __rarely mentions Arts & Humanities__ research projects and largely comprises work in scientific fields.  
+ * ... __contains multitudes__ - RS measurement metrics need to account for differing goals and resources of RS projects compared with SE projects; research can include (large) Open Source Software studies, making comparison of findings regarding efficacy of SE approaches difficult.  
+
+
+
+## What I've Achieved so Far: Lit Review    
+
+* __Little replication within RS research__ thus far.    
+* __N.U. Eisty \& J.C. Carver__ (Alabama) seem to have closest overlapping research interests. This project could *replicate/expand some of their methods with UK focus*, cf. US (+/- international) focus.  
+* RS research is __rarely backed by empirical data__ and __sampling is often not robust__ - *"generalizability crisis"* (Baltes & Ralph, 2021).  
+* Many studies __use only one method__; in many cases the __method doesn't match the aims__ of the research (e.g. many studies aim to benefit developers, but only use data-driven methods which don't link back to the aims - Storey *et al.*, 2020). __Selecting appropriate mixed methods will address this.__      
+
+
+
+## What (Else) I've Achieved so Far 
+
+* __Volunteered at [Sixth Annual Conference for Research Software Engineering](https://rsecon2022.society-rse.org/)__ (RSECon22)   
+* __Attended [SSI Collaborations Workshop 2022](https://www.software.ac.uk/cw22)__ (CW22)  
+* __Applied for [SSI Fellowship Programme 2023](https://www.software.ac.uk/programmes-and-events/fellowship-programme)__ to plan / organise activities relating to improving research software (shortlist confirmed ~Tuesday!) 
+* __Lead-authored__ / coordinated SSI blog post\* resulting from speed-blog group session at CW22  
 
 <font size=4>\* = [Aim for understandability if you want to write good research software](https://www.software.ac.uk/blog/2022-07-04-aim-understandability-if-you-want-write-good-research-software). </font>
 
 
 
-## What I've Achieved so Far (Indirect / External)  
+## What (Else) I've Achieved so Far  
 
-* Presented at [Edinburgh Open Research Conference 2022](https://edopenresearch.com/edinburghopenresearchconference/)   
-* Demonstrating on *Programming Skills* & *Fundamentals of Data Management* EPCC masters courses   
-* Helper \& Demonstrator on [Ed-DaSH](https://edcarp.github.io/Ed-DaSH/) project workshops (Carpentries-style workshops: Data Science for Health and Biosciences)   
-* Applied for [SSI Fellowship Programme 2023](https://www.software.ac.uk/programmes-and-events/fellowship-programme) to plan / organise activities relating to improving research software (shortlist confirmed ~Tuesday!)    
-* Part of winning team at SSI CollabW22 hack-day :)   
+* __Presentation__ on *Open Science in Student Research Projects* at [Edinburgh Open Research Conference 2022](https://edopenresearch.com/edinburghopenresearchconference/)   
+* __Demonstrating__ on *Programming Skills* & *Fundamentals of Data Management* EPCC masters courses   
+* __Helper \& Demonstrator__ on [Ed-DaSH](https://edcarp.github.io/Ed-DaSH/) project workshops (Carpentries-style workshops: Data Science for Health and Biosciences)   
+* __Volunteered__ at tech industry/ startups conference [Turing Fest 2022](https://www.turingfest.com/conference)
+* Part of *winning team* at SSI CollabW22 hack-day :)   
+
+
+
+## Main Research Questions
+
+- "__How can effectiveness / appropriateness of SE techniques and development practices be measured__ in small UK-based RS projects?" *[RSM0]* 
+
+- "__Do identified SE techniques or development practices improve the quality and/or development efficiency of RS__ if deployed within small UK-based RS projects?" *[SEA0]*
+
+- "__Which project factors influence the adoption and effective use__ of these recommended SE approaches in small UK-based RS projects?" *[RSP0]*
+
 
 
 
@@ -174,6 +221,12 @@ __Goals:__
 
 ## Key Experiments / Studies  
 
+__Studies / Experiments:__   
+
+ - *RS Testing Experiences* survey  [SEA0, RSP0]   
+ - *Measuring RS Projects* - develop metrics/framework, then evaluate and refine  [RSM0] 
+ - *Evidence-Based RS Interventions* - main experiment, mixed methods [SEA0, RSP0, RSM0]      
+ 
 __Literature Reviews:__    
 
  - SE techniques in RS  [SEA0] 
@@ -182,25 +235,17 @@ __Literature Reviews:__
  - RS project factors [RSP0]  
 
 
-__Studies / Experiments:__   
-
- - *RS Testing Experiences* survey  [SEA0, RSP0]   
- - *Measuring RS Projects* - develop metrics/framework, then evaluate and refine  [RSM0] 
- - *Evidence-Based RS Interventions* - main experiment, mixed methods [SEA0, RSP0, RSM0]      
- 
-
-
 
 ## Next 6 Months Priorities: 
 
 * Complete ethics procedures, create Data Management Plan  
-* Lit Review: SE Approaches (techniques/development practices) [SEA0]   
-* Run, analyse and write up RS Testing Experiences Survey [SEA0 / RSP0]   
-* Lit Review: RS Measurement [RSM0]  
-* Develop (+ test and refine) RS assessment metrics and methods [RSM0]   
-* Develop and refine 'recommendation' SE approaches [SEA0]  
-* Recruiting RS projects for Interventions study [SEA0 / RSP0]   
-* Begin Evidence-Based RS Interventions study [SEA0 / RSP0 / RSM0]   
+* Lit Review: SE Approaches (techniques/development practices)  
+* Run, analyse and write up RS Testing Experiences Survey    
+* Lit Review: RS Measurement  
+* Develop (+ test and refine) RS assessment metrics and methods    
+* Develop and refine 'recommendation' SE approaches    
+* Recruiting RS projects for Interventions study     
+* Begin Evidence-Based RS Interventions study   
 
 
 
@@ -213,8 +258,8 @@ __Collating a list of specific promising SE approaches to recommend in the Inter
 
 They need to:     
  - be quickly/easily learned with skill-up materials available    
- - have claims supporting effectiveness in SE  
- - be likely to transfer to RS projects well  
+ - have claims supporting their effectiveness  
+ - be likely to transfer well to RS projects  
  - address software quality or development efficiency  
  - have differing actions/methods of improvement  
  - result in measurable improvement in (6-9mo) intervention period    
