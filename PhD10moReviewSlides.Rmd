@@ -80,7 +80,7 @@ __Project Background:__
  
 __Progress:__   
 - what I've achieved so far   
-- project plan; key experiments/studies  
+- project plan summary  
 - next 6 months priorities   
 - challenges for me and the project   
 
@@ -222,7 +222,7 @@ knitr::include_graphics("images/ProjectPlanSummary_short.png")
 ``` 
 
 
-
+<!-- 
 ## Key Experiments / Studies
 
 __Studies / Experiments:__   
@@ -238,20 +238,19 @@ __Literature Reviews:__
  - RS development practices: __Jan 23 - Apr 22__ [SEA0]   
  - RS project factors: __Feb 23 - Mar 23__; __Jun 23 - Jul 23__ [RSP0]   
 
+-->
 
 
 ## Next 6 Months Priorities: 
 
-* Complete ethics procedures, create Data Management Plan  
-* Lit Review: SE Approaches (techniques/development practices)  
-* Run, analyse and write up RS Testing Experiences Survey    
-* Lit Review: RS Measurement  
-* Develop (+ test and refine) RS assessment metrics and methods    
-* Develop and refine 'recommendation' SE approaches    
-* Recruiting RS projects for Interventions study     
-* Begin Evidence-Based RS Interventions study   
-
-
+* Complete __ethics__ procedures, create Data Management Plan  
+* *Lit Reviews:* __SE Approaches__ (techniques + development practices)  
+* Run, analyse and write up RS __Testing Experiences__ Survey    
+* *Lit Review:* __RS Measurement__  
+* Develop (+ __test__ and refine) __RS assessment metrics__ and methods    
+* Develop and refine __'SE recommendations'__ interventions       
+* __Recruiting__ RS projects for Interventions study     
+* __Begin Evidence-Based RS Interventions__ study   
 
 
 
@@ -262,26 +261,44 @@ __Collating a list of specific promising SE approaches to recommend in the Inter
 
 They need to:     
  - be quickly/easily learned with skill-up materials available    
- - have claims supporting their effectiveness  
+ - have supporting claims for their effectiveness  
  - be likely to transfer well to RS projects  
  - address software quality or development efficiency  
  - have differing actions/methods of improvement  
- - result in measurable improvement in (6-9mo) intervention period    
+ - result in measurable changes in (6-9mo) intervention period    
 
 
 *Mitigations:* 
-Collate potential recommendations from lit reviews, survey study feedback, external datasets;  
-Gather feedback on RS expectations/experiences of these recommendations re: likely effectiveness. 
+__Collate list__ from lit reviews, survey study feedback, external datasets;  
+__Gather feedback__ on RS expectations/experiences re: likely effectiveness. 
+
+
+
+## Challenges for Me \& The Project
+
+
+__Recruiting appropriate RS projects for Interventions Study may be difficult.__  
+
+ * High time commitment / engagement over several (~6-9) months;   
+ * Developers may be reluctant to open up about ineffective behaviours or poor quality coding   
+ * Potential difficulty in identifying RS projects from less familiar fields (e.g. Arts/Humanities/Social)   
+ * Important to use high-quality sampling method
+
+*Mitigations:* 
+Offer __participation reward__ vouchers; __share findings__ on improving development and RS quality;  (?programmatic?) __codebase measurement__/assessment methods to allow data collection without significant engagement by developers;  
+
 
 
 
 ## Challenges for Me \& The Project  
 
-__Project timescales are short for measuring changes to codebase and development__ 
+__Project timescales are short for measuring changes to codebase and development.__ 
 
-Risk of not beginning long forward study Interventions experiment soon enough, delays to data collection, difficulty in arranging interviews/meetings with key developers. 
+ * Risk of not beginning long forward study Interventions experiment soon enough  
+ * Delays to data collection  
+ * difficulty in arranging interviews/meetings with key developers 
 
 *Mitigations:* 
-Collate list of potential projects which may be likely to meet participation criteria, adding to or subtracting from this as I refine the criteria and verify availability or interest.  
-Focus on metrics which are likely to result in measurable changes relatively quickly.  
+Collate __list of potential projects__ which may be likely to meet participation criteria, add/subtract from this as I refine criteria and verify availability or interest.  
+Focus on __sensitive metrics__ which are likely to result in measurable changes relatively quickly.  
 
