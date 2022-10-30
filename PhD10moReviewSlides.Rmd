@@ -215,14 +215,15 @@ __Research Software Research...__
 
 
 
-## Project Plan / Milestones 
+## Project Plan Summary {.flexbox .vcenter .hcenter}
 
 
-<div class="centered">
-```{r, out.width = "700"}
-#knitr::include_graphics("TODO")
+<div class="center">
+```{r, out.width = "825"}
+knitr::include_graphics("images/ProjectPlanSummary_short.png")
 ``` 
 </div>
+
 
 
 ## Key Experiments / Studies
