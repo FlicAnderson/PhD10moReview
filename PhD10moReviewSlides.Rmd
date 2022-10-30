@@ -72,8 +72,8 @@ Source: [tl;drLegal](https://tldrlegal.com/license/mit-license)
 ## Outline 
 
 __Project Background:__  
-- main question, areas of focus   
 - motivation   
+- main question, areas of focus   
 - aims & goals    
 - project development   
 - main research questions   
@@ -92,6 +92,19 @@ __SE: Software engineering__
 # Project Background 
 
 
+
+## Project Motivation   
+
+__Research Software: *"any code written or software used in the process of generating results for a publication"*__  
+
+* Software underpins (~) all modern research!   
+* Inaccuracies or inefficiencies in RS can have __negative research impacts__ (calibration blind-spot)  
+* __RS often created by developers un-trained in SE__: majority informally- or self-taught; existing training is sporadic, not evidence-based  
+* Due to __diversity of RS projects__, identifying effective, appropriate SE approaches can be challenging    
+* __*RS research lacks empirical evidence base identifying and supporting proven best practices*__
+
+
+
 ## Project Question
 
 <font size=6>*"Which __effective SE approaches__\* prevalent in traditional SE can be recommended to __small research software projects within the UK__ to improve their __software quality__ and __development efficiency__?"* </font>
@@ -104,18 +117,6 @@ __SE: Software engineering__
 * Research Software Projects [RSP]   
 
 <font size=4>\* Specific __SE techniques__ and more general __SE development practices__. </font>  
-
-
-
-## Project Motivation   
-
-__Research Software: *"any code written or software used in the process of generating results for a publication"*__  
-
-* Software underpins (~) all modern research!   
-* Inaccuracies or inefficiencies in RS can have __negative research impacts__ (calibration blind-spot)  
-* __RS often created by developers un-trained in SE__: majority informally- or self-taught; existing training is sporadic, not evidence-based  
-* Due to __diversity of RS projects__, identifying effective, appropriate SE approaches can be challenging    
-* __*RS research lacks empirical evidence base identifying and supporting proven best practices*__
 
 
 
@@ -134,7 +135,7 @@ __Goals:__
 
 
 
-## Project Development So Far  
+## Project Development So Far    
 
 Original Research Proposal:  
 
