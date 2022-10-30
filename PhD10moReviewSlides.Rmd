@@ -83,6 +83,7 @@ __Progress:__
 - project plan summary  
 - next 6 months priorities   
 - challenges for me and the project   
+- my questions
 
 __RS: Research software__    
 __SE: Software engineering__ 
@@ -300,5 +301,15 @@ __Project timescales are short for measuring changes to codebase and development
 
 *Mitigations:* 
 Collate __list of potential projects__ which may be likely to meet participation criteria, add/subtract from this as I refine criteria and verify availability or interest.  
+__Stagger data collection__ to spread the load over time.  
 Focus on __sensitive metrics__ which are likely to result in measurable changes relatively quickly.  
 
+
+
+## My Questions:  
+
+* Is the __"pre-intervention period vs intervention period" study design__ worth the risks?  
+* How should I handle __studying more than one SEA recommendation__ in the intervention study? Split study into: [Control, Rec1, Rec2, Rec3]? [Control vs Rec1+2+3]?   
+* __Are 'control' groups more likely to drop out__ of intervention study?   
+* __How many projects are 'practical'__ to follow for ~1yr / account for drop-outs etc.?     
+* __How much compensation is 'typical'__ for taking part in a project like 'Interventions' study? What should I consider?  
