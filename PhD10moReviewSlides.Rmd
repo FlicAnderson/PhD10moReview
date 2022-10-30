@@ -218,22 +218,27 @@ __Research Software Research...__
 ## Project Plan / Milestones 
 
 
+<div class="centered">
+```{r, out.width = "700"}
+#knitr::include_graphics("TODO")
+``` 
+</div>
 
 
-## Key Experiments / Studies  
+## Key Experiments / Studies
 
 __Studies / Experiments:__   
 
- - *RS Testing Experiences* survey  [SEA0, RSP0]   
- - *Measuring RS Projects* - develop metrics/framework, then evaluate and refine  [RSM0] 
- - *Evidence-Based RS Interventions* - main experiment, mixed methods [SEA0, RSP0, RSM0]      
+ - *RS Testing Experiences* survey: __Dec 22 - Jan 23__  [SEA0, RSP0]   
+ - *Measuring RS Projects* - develop metrics/framework, then evaluate and refine: __Feb 23 - Apr 23__  [RSM0] 
+ - *Evidence-Based RS Interventions* - main experiment, mixed methods: __Jan 23 - May 24__ [SEA0, RSP0, RSM0]      
  
 __Literature Reviews:__    
 
- - SE techniques in RS  [SEA0] 
- - RS development practices [SEA0]  
- - RS measurement [RSM0] 
- - RS project factors [RSP0]  
+ - RS measurement: __Apr 22 - Jun 22__; __Nov 22 - Jan 23__ [RSM0]  
+ - SE techniques in RS: __Nov 22 - Feb 22__  [SEA0]  
+ - RS development practices: __Jan 23 - Apr 22__ [SEA0]   
+ - RS project factors: __Feb 23 - Mar 23__; __Jun 23 - Jul 23__ [RSP0]   
 
 
 
