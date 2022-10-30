@@ -215,14 +215,11 @@ __Research Software Research...__
 
 
 
-## Project Plan Summary {.flexbox .vcenter .hcenter}
+## Project Plan Summary {.flexbox .vcenter}
 
-
-<div class="center">
-```{r, out.width = "825"}
+```{r, out.width = "830"}
 knitr::include_graphics("images/ProjectPlanSummary_short.png")
 ``` 
-</div>
 
 
 
